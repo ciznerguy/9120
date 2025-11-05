@@ -42,7 +42,7 @@ namespace _9120
 
         // 3
         // find a specific element in the list
-        // param1 : IntNode
+        // param1 : param : Node<int>
         // param2 : int (value to find)
         // return : IntNode
         // example: param1: ->1->2->3, param2: 2, return: Node with value 2
@@ -56,7 +56,7 @@ namespace _9120
 
         // 4
         // check if an element is in the list
-        // param1 : IntNode
+        // param1 : param : Node<int>
         // param2 : int (value to check)
         // return : bool
         // example: param1: ->1->2->3, param2: 2, return: true
